@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/CustomFilterDropown/MainPage.xaml) (VB: [MainPage.xaml](./VB/CustomFilterDropown/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/CustomFilterDropown/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/CustomFilterDropown/MainPage.xaml))
+<!-- default file list end -->
 # How to Create a Custom Filter Dropdown
 
 
